@@ -1,0 +1,33 @@
+# Copyright (c) 2025, Williams.Wang. All rights reserved. Use restricted under LICENSE terms.
+
+env:
+  grid_size: 10
+  start: [0, 0]
+  goal: [9, 9]
+  holes:
+    - [2, 3]
+    - [5, 5]
+    - [6, 2]
+    - [7, 8]
+  reward_goal: 1.0
+  reward_hole: -1.0
+  reward_step: -0.04
+
+agent:
+  alpha: 0.1
+  gamma: 0.95
+  epsilon_start: 0.9
+  epsilon_end: 0.05
+  epsilon_decay: 0.9995
+
+train:
+  max_episodes: 10000         # 建议增大
+  render_interval: 10
+  snapshot_interval: 10       # 每10集保存一帧
+  convergence_tol: 1.0e-4
+  convergence_patience: 20
+  use_visualization: true
+  create_gif: true
+
+viz:
+  fps: 5                      # GIF帧率可自定义

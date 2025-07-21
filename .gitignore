@@ -1,0 +1,77 @@
+# Copyright (c) 2025, Williams.Wang. All rights reserved. Use restricted under LICENSE terms.
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+*.out
+*.pid
+*.env
+.env*
+.venv/
+venv/
+ENV/
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+.tox/
+
+# Build
+build/
+dist/
+*.spec
+
+# Output
+outputs/
+outputs/frames/
+outputs/*.gif
+
+# Docs
+/docs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.~*
+
+# Ignore secrets
+*.key
+*.pem
+*.crt
+*.env
+secrets.*
+
+# Ignore test artifacts
+*.prof
+*.lprof
+*.dat
+*.cache
+
+# Ignore matplotlib cache
+.matplotlib/ 

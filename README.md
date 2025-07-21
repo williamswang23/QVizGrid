@@ -31,7 +31,7 @@
 
 ```bash
 git clone https://github.com/williamswang23/QVizGrid.git
-cd GridWorld-Q-Learning
+cd QVizGrid
 conda activate RL
 pip install -r requirements.txt
 ```

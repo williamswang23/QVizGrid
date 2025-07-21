@@ -21,7 +21,7 @@
 
 ## 🖼️ Demo
 
-![Q-Learning GIF Demo](https://i.imgur.com/2UoI1nW.gif)
+![Q-Learning GIF Demo](fig/q_evolution.gif)
 
 ---
 

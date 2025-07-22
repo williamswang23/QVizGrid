@@ -3,7 +3,6 @@
 > **A beautiful, interactive, and fully open-source Q-Learning demo for GridWorld, with real-time terminal visualization and GIF export.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 

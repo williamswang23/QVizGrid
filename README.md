@@ -130,9 +130,33 @@ Pull requests, issues, and suggestions are welcome! Please see [CONTRIBUTING.md]
 
 ---
 
-## 📄 License
+## 📄 License & Copyright
 
 Copyright (c) 2025, Williams.Wang. All rights reserved. Use restricted under LICENSE terms.
+
+---
+
+## 📄 版权与许可 / Copyright & License
+
+**版权声明 / Copyright Notice:**
+- 本项目的所有代码、文档和相关内容的版权归 Williams.Wang 个人所有
+- All code, documentation, and related content in this project are copyrighted by Williams.Wang
+
+**使用条款 / Terms of Use:**
+- ✅ **学术研究和个人学习使用** / Academic research and personal learning use
+- ✅ **非商业项目** / Non-commercial projects  
+- ❌ **商业使用需要获得书面许可** / Commercial use requires written permission
+- ❌ **未经许可不得用于商业产品或服务** / Cannot be used in commercial products or services without permission
+
+**商业许可 / Commercial License:**
+如需商业使用本项目，请联系作者获得书面许可：
+For commercial use, please contact the author for written permission:
+- 📧 Email: [Your Email]
+- 💼 商业合作咨询 / Business collaboration inquiry
+
+**免责声明 / Disclaimer:**
+本软件按"原样"提供，不提供任何明示或暗示的保证。
+This software is provided "as-is" without any express or implied warranties.
 
 ---
 
